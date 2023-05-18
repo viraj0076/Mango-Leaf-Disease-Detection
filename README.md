@@ -1,3 +1,6 @@
 # Mango-Leaf-Disease-Detection Using the CNN
+India is the world’s largest producer of mangoes, accounting for approximately 40% of the global production. Mangoes are an essential part of India’s cultural and economic heritage, and the country has more than 1,000 varieties of mangoes. However, mango diseases are a significant challenge for the Indian mango industry, causing significant losses in crop yield and quality. The most common mango diseases in India are anthracnose, powdery mildew, and bacterial black spot. These diseases can be caused by various factors such as weather conditions, insects, fungi, and bacteria. Detecting these diseases at an early stage is crucial to prevent their spread and minimize crop losses.
+
+Recent advancements in deep learning techniques offer new opportunities to automate the detection of mango diseases. Deep learning is a subfield of machine learning that involves training artificial neural networks to learn from large datasets. Convolutional neural networks (CNNs) are a type of deep learning model that has shown remarkable performance in image recognition tasks.
 for the dataset Check out:
 https://www.kaggle.com/datasets/mohammadrafaykhan/mango-leaf-health-detection-dataset
